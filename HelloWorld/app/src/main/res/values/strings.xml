@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 应用名称 -->
+    <string name="app_name">医院预约系统</string>
+
+    <!-- 科室列表 -->
+    <string-array name="departments">
+        <item>内科</item>
+        <item>外科</item>
+        <item>儿科</item>
+        <item>妇科</item>
+        <item>眼科</item>
+        <item>耳鼻喉科</item>
+        <item>口腔科</item>
+        <item>皮肤科</item>
+    </string-array>
+
+    <!-- 其他字符串资源 -->
+    <string name="login">登录</string>
+    <string name="username_hint">用户名</string>
+    <string name="password_hint">密码</string>
+    <string name="add_appointment">添加预约信息</string>
+    <string name="save">保存</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="select_image">选择医生照片</string>
+    <string name="doctor_name_hint">医生姓名</string>
+    <string name="time_slot_hint">预约时间段</string>
+    <string name="price_hint">收费价格</string>
+    <string name="max_appointments_hint">最大预约人数</string>
+    <string name="select_days">选择开放预约的星期</string>
+</resources>
